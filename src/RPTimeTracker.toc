@@ -1,0 +1,13 @@
+## Interface: 100207
+## Version: 0.1.2
+## Title: RP Time Tracker
+## IconTexture: Interface\Icons\ability_bossmagistrix_timewarp1
+## Notes: Tracking the Time you are Roleplaying
+## Author: MrSamorion
+## Category-enUS: Roleplay
+## Category-deDE: Rollenspiel
+
+## OptionalDeps: totalRP3
+## SavedVariables: RPTT_DB
+
+RPTimeTracker.xml
